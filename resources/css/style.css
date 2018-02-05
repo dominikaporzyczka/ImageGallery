@@ -3,3 +3,14 @@ img {
     float: left;
     margin: 1.66%;
 }
+
+.title {
+    font-family: "Raleway";
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    width: 30%;
+    border-bottom: 3px solid rgb(204, 204, 204);
+    padding-bottom: 20px;
+}
